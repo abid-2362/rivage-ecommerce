@@ -4,12 +4,12 @@ self.__precacheManifest = [
     "url": "/static/media/product-5.130b10c0.jpg"
   },
   {
-    "revision": "b088f4e1d4cf71b06490",
-    "url": "/static/css/main.1800f48a.chunk.css"
+    "revision": "4663414ee35516cd01ba",
+    "url": "/static/css/main.d313b905.chunk.css"
   },
   {
-    "revision": "9561516e281da58bde6c",
-    "url": "/static/js/1.9561516e.chunk.js"
+    "revision": "91dc0f2dd60a0abdc4c1",
+    "url": "/static/js/1.91dc0f2d.chunk.js"
   },
   {
     "revision": "229c360febb4351a89df",
@@ -48,8 +48,8 @@ self.__precacheManifest = [
     "url": "/static/media/product-4.bd6bfd10.jpg"
   },
   {
-    "revision": "b088f4e1d4cf71b06490",
-    "url": "/static/js/main.b088f4e1.chunk.js"
+    "revision": "4663414ee35516cd01ba",
+    "url": "/static/js/main.4663414e.chunk.js"
   },
   {
     "revision": "930f5dad36b4e870b609a30587f7c76f",
@@ -72,16 +72,20 @@ self.__precacheManifest = [
     "url": "/static/media/Proxima Nova Regular.e802340f.eot"
   },
   {
-    "revision": "12ccd551e98723a35f926077a3dd40c4",
-    "url": "/static/media/Proxima Nova Regular.12ccd551.woff"
-  },
-  {
     "revision": "0b420bac468e8340b6dde901f9df3676",
     "url": "/static/media/Proxima Nova Regular.0b420bac.ttf"
   },
   {
     "revision": "31015419447c577a449239c64252c6cf",
     "url": "/static/media/Proxima Nova Regular.31015419.svg"
+  },
+  {
+    "revision": "12ccd551e98723a35f926077a3dd40c4",
+    "url": "/static/media/Proxima Nova Regular.12ccd551.woff"
+  },
+  {
+    "revision": "ed8dcad03f0741e36acaac10b0281540",
+    "url": "/static/media/sf-ui-text-heavy-italic.ed8dcad0.otf"
   },
   {
     "revision": "7b4372e3302986e38ad838adab1f559f",
@@ -92,11 +96,7 @@ self.__precacheManifest = [
     "url": "/static/media/sf-ui-text-light.944e83ee.otf"
   },
   {
-    "revision": "ed8dcad03f0741e36acaac10b0281540",
-    "url": "/static/media/sf-ui-text-heavy-italic.ed8dcad0.otf"
-  },
-  {
-    "revision": "60bd731ba34056ca336b9fe64e028452",
+    "revision": "33b668ce985ab862e105d8a795012d37",
     "url": "/index.html"
   }
 ];
